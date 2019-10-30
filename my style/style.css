@@ -1,5 +1,6 @@
-<body {
-  background-color:#DED9E2 ;
+body {
+  background-color: pink;
+  font-family: 'Architects Daughter', cursive;
 }
 ul {
   text-align: center;
@@ -11,8 +12,9 @@ li{
 	
 }
 h1 {
-  color: #80A1D4;
+  color:black;
   text-align: center;
+  
 }
 p {
 	text-align:center;
@@ -27,9 +29,7 @@ img {
 	width:400px ;
 	height:250px ;
 }
-embed{
-	padding: 25px 100px 25px 600px;
-}
+
 nav {
   background-color: #F7F4EA; 
   width:100%;
