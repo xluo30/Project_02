@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  color: purple;
+  color: black;
 }
 
 h2 {
@@ -27,7 +27,7 @@ h4 {
 
 p {
   color: gray;
-  font-family:cursive;
+  font-family: Comic Sana MS;
   /* imported font */
 }
 
@@ -38,7 +38,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family:cursive;
+  font-family :comic sana ms;
 }
 
 body,
@@ -80,6 +80,6 @@ nav li{
 nav a {
   display: inline-block;
   color:purple;
-  font-family: sans-serif;
+  font-family: comic sans ms;
   padding: 10px;
 }
