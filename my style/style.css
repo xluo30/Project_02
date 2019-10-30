@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  color: black;
+  color: purple;
 }
 
 h2 {
@@ -27,7 +27,7 @@ h4 {
 
 p {
   color: gray;
-  font-family: Comic Sana MS;
+  font-family: curc;
   /* imported font */
 }
 
