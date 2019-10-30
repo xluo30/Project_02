@@ -1,20 +1,24 @@
 
-style>
+<style>
 @import url('https://fonts.googleapis.com/css?family=Capriola&display=swap');
 </style>
 /* imported font*/
+<style>
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap');
+</style>
 
 
 /*different style elements*/
 
 body {
-  background-color: pink;
+
 font-family: 'Capriola';
 text-align: center;
 }
 
 h1 {
-  
+  background-color:#ccccff;
+  font-family:fredericka the great;
   color:purple;
   text-align:center;
 }
@@ -37,7 +41,7 @@ h4 {
 p {
   color: gray;
   text-align: center;
-font-family: 'Capriola', sans-serif;
+font-family: comic sans ms;
 }
 
 /* imported font */
@@ -57,16 +61,19 @@ em {
   text-align: center;
 }
 
-
+ul{
+	text-align: center;
+	color : sliver;
+}
 
 em {
   color:gray;
   text-align: center;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
+.img {
+  width :50 px ;
+  height: 50;
   text-align: center;
 }
 
@@ -83,12 +90,13 @@ img {
 .nav li{
   display: inline;
   font-size: x-large;
+  font-family: comic sans ms;
 }
 
 
 .nav a {
   display: inline-block;
   color:purple;
-  font-family: comic sans ms;
-  padding: 10px;
+font-family: comic sans ms;
+  padding: 40px;
 }
