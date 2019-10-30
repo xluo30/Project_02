@@ -27,7 +27,7 @@ h4 {
 
 p {
   color: gray;
-  font-family:sans-serif;
+  font-family:cursive;
   /* imported font */
 }
 
@@ -38,7 +38,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family:serif;
+  font-family:cursive;
 }
 
 body,
@@ -62,7 +62,7 @@ img {
   height: auto;
 }
 
-.nav {
+nav {
   width: 100%;
   border: 1px solid #ccc;
   border-width: 1px 0;
@@ -72,12 +72,12 @@ img {
   text-align: center;
 }
 
-.nav li{
+nav li{
   display: inline;
   font-size: x-large;
 }
 
-.nav a {
+nav a {
   display: inline-block;
   color:purple;
   font-family: sans-serif;
