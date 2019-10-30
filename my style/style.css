@@ -18,23 +18,26 @@ text-align: center;
 
 h1 {
   background-color:#ccccff;
-  font-family:fredericka the great;
+  font-family: 'Mystery Quest', cursive;
   color:purple;
   text-align:center;
 }
 
 h2 {
+  background-color:#ccffff;
   color:purple;
   text-align: center;
 }
 
 h3 {
-  color: purple;
+  background-color:#ccffcc;
+   color:purple;
   text-align: center;
 }
 
 h4 {
-  color: purple;
+  background-color:#ffffcc;
+   color:purple;
   text-align: center;
 }
 
@@ -44,16 +47,6 @@ p {
 font-family: comic sans ms;
 }
 
-/* imported font */
-
-
-
-/* same style elements */
-
-
-h4 {
-  font-family: 'Architects Daughter', cursive;
-}
 
 
 em {
@@ -66,10 +59,7 @@ ul{
 	color : sliver;
 }
 
-em {
-  color:gray;
-  text-align: center;
-}
+
 
 .img {
   width :50 px ;
@@ -89,7 +79,7 @@ em {
 
 .nav li{
   display: inline;
-  font-size: x-large;
+  font-size: xx-large;
   font-family: comic sans ms;
 }
 
@@ -98,5 +88,5 @@ em {
   display: inline-block;
   color:purple;
 font-family: comic sans ms;
-  padding: 40px;
+  padding: 30px;
 }
