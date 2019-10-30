@@ -1,5 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap");
-
+<style>
+@import url('https://fonts.googleapis.com/css?family=Capriola&display=swap');
+</style>
 /* imported font*/
 
 
@@ -7,6 +8,7 @@
 
 body {
   background-color: sliver;
+  font-family: 'Capriola', sans-serif;
 }
 
 h1 {
@@ -27,7 +29,7 @@ h4 {
 
 p {
   color: gray;
-  font-family: comic sans
+font-family: 'Capriola', sans-serif;
   /* imported font */
 }
 
@@ -38,7 +40,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family :comic sans;
+  font-family: 'Architects Daughter', cursive;
 }
 
 body,
